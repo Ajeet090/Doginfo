@@ -39,10 +39,7 @@ The Dog Information Web Application is an online platform designed to provide us
 - React Hooks
 - SVG
 
-# Hosting: 
 
-- Firebase
-- Hosting URL: https://doginfo-web-app-626ac.web.app
 # OutPut 🥠:
 
 ![Screenshot (19)](https://github.com/Ajeet090/Doginfo/assets/61498445/52f5afa2-2dc9-4454-95f9-eb8bd768b700)
